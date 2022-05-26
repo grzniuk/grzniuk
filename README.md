@@ -1,6 +1,6 @@
 Hi, 
 
-i'm @grzniuk, a Python developer. This repo is for my hobby projects. I'm curently interested in codifying music theory. 
+i'm @grzniuk and this repo is for my hobby projects which include writing fiction and developing Python software. I'm curently interested in codifying music theory and creating audio visualisations.
 
 You can contact me at grzniuk at biscoco dot com.
 
